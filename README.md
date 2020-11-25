@@ -33,6 +33,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&labelColor=563D7C&logoColor=white)
 ![Semantic-ui](https://img.shields.io/badge/SemantiUI-00CCBC?style=flat)
 ![Cypress](https://img.shields.io/badge/Cypress.io-17202C?style=flat&logo=cypress&labelColor=17202C&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest)
 ![RSpec](https://img.shields.io/badge/RSpec-red?style=flat&logo=ruby&logoColor=white)
 ![Detox](https://img.shields.io/badge/Detox-61DAFB?style=flat&logo=react&labelColor=61DAFB&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
@@ -41,6 +42,9 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![React-router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Coveralls](https://img.shields.io/badge/Coveralls-316192?style=flat&logo=coveralls)
+![SemaphoreCI](https://img.shields.io/badge/SemaphoreCI-19A974?style=flat&logo=semaphoreci&logoColor=white)
+
 
 ---
 ## My Github Stats:
