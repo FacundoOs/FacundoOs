@@ -8,12 +8,10 @@
 
 ---
 
-<img align="right" width="350" height="200" src="https://media.giphy.com/media/zrdUjl6N99nLq/giphy.gif" />
 
 ## Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning more of Node.js
 - 💡 I am planning to start a blog
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: my contact links are above 🙄
